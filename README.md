@@ -1,13 +1,12 @@
 # Sistema de Saludo en Python
 
 ## ¿Qué es esto?
-Un programita en Python bastante simple. Te hace unas preguntas sobre ti y luego, bueno, te muestra todo junto en un mensaje personalizado. Perfecto para principiantes. Para quienes están dando sus primeros pasos.
+Un pequeño programita en Python bastante simple. Te hace unas preguntas sobre ti y luego,te muestra todo junto en un mensaje personalizado.
 
 ## Lo que hace
 - Te pregunta cosas. Nombre, edad, dónde vives... ya sabes.
 - Después junta todo eso y te lo muestra organizado en pantalla.
-- Es súper fácil de usar. O sea, literal solo respondes lo que te va preguntando y ya.
-- No tiene funciones ni cosas complicadas. Así que... ideal para aprender.
+- Es súper fácil de usar.
 
 ## Lo que necesitas
 Python. Necesitas tener Python instalado en tu computadora. Cualquier versión 3.x funciona bien.
@@ -55,7 +54,7 @@ Comida favorita: Pizza
 ```
 
 ## ¿Quieres modificarlo?
-El código es muy simple. Muy sencillo. Puedes agregar más preguntas si quieres o cambiar cómo se ve al final. A veces es bueno experimentar con estos programas pequeños, porque aprendes mucho. Te recomendaría que juegues un poco con él.
+El código es muy simple. Muy sencillo. Puedes agregar más preguntas si quieres o cambiar cómo se ve al final.
 
 ## Licencia
-Licencia MIT. Pero bueno, es código libre y puedes hacer lo que quieras con él. Usarlo, modificarlo, compartirlo... lo que sea.
+Licencia GersonMera. Pero bueno, es código libre y puedes hacer lo que quieras con él. Usarlo, modificarlo, compartirlo... lo que sea :).
