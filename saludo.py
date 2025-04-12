@@ -1,1 +1,26 @@
+print("¡Bienvenido al sistema de saludo!")
+print("Por favor, ingresa los siguientes datos:\n")
+print("")
+print("")
 
+nombre = input("¿Cuál es tu nombre?: ")
+edad = input("¿Cuántos años tienes?: ")
+lugar = input("¿Dónde vives?: ")
+ocupacion = input("¿A qué te dedicas?: ")
+hobby = input("¿Cuál es tu pasatiempo favorito?: ")
+comida = input("¿Cuál es tu comida favorita?: ")
+
+
+
+print("\n" + "-" * 50)
+print("¡Hola! Aquí está tu información personal:")
+print("-" * 50)
+print(f"Nombre: {nombre}")
+print(f"Edad: {edad} años")
+print(f"Lugar de residencia: {lugar}")
+print(f"Ocupación: {ocupacion}")
+print(f"Pasatiempo favorito: {hobby}")
+print(f"Comida favorita: {comida}")
+print("-" * 50)
+print(f"¡Mucho gusto en conocerte, {nombre}! Espero que tengas un excelente día.")
+print("-" * 50)
